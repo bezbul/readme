@@ -1,5 +1,4 @@
 # Maxim Kutzenko - Python Backend Developer
-## Experience![Uploading pic.PNG…]()
 telegram: @bezbul
 ## Skills
  - Python, Django
@@ -10,6 +9,7 @@ telegram: @bezbul
  - aiogram, telebot, telethon
  - openCV, matplotlib, pandas
 
+## Experience
 Python Backend Developer at Corpberry 07.2021 - 01.2022
 
 ## Education
