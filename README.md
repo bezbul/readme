@@ -1,6 +1,7 @@
 # Maxim Kutzenko - Python Backend Developer
 <img width="595" alt="pic" src="https://user-images.githubusercontent.com/83072083/171449843-9891171f-ae1c-4063-8e5f-e70faf204df0.PNG">
 telegram: @bezbul
+
 ## Skills
  - Python, Django
  - Docker, docker-compose
