@@ -1,6 +1,6 @@
 
 <img width="230" alt="pic" src="https://user-images.githubusercontent.com/83072083/171449843-9891171f-ae1c-4063-8e5f-e70faf204df0.PNG">
-# Maxim Kutzenko - Python Backend Developer
+# Maxim Kutzenko - Mashine Learning Developer
 
 ## telegram: @bezbul
 
